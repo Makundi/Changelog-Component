@@ -5,4 +5,4 @@ The goal of this project is to help me put into practice the knowledge about pos
 Clone the repo into your local machine then open changelog.html file on your default browser.
 
 ## Project Preview
-<img src="images/preview.png">
+<img src="images/preview1.png">
