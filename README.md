@@ -3,3 +3,6 @@ The goal of this project is to help me put into practice the knowledge about pos
 
 ## How to run the project
 Clone the repo into your local machine then open changelog.html file on your default browser.
+
+## Project Preview
+<img src="images/preview.png">
